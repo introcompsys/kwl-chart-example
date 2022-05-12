@@ -1,0 +1,8 @@
+jupyter-book 
+matplotlib
+numpy
+pyppeteer
+pandas
+lxml
+sphinx_fontawesome
+sphinx_panels
